@@ -1,3 +1,8 @@
+<img width="1920" height="1080" alt="SlimeRancher-2026-05-26-10-21-19-17" src="https://github.com/user-attachments/assets/939d1047-b2d5-45f5-9c44-da1fb1265fb4" />
+<img width="1920" height="1080" alt="SlimeRancher-2026-05-26-10-20-48-40" src="https://github.com/user-attachments/assets/650cc38c-20da-4257-b91c-8e7ec2a435a3" />
+<img width="1920" height="1080" alt="SlimeRancher-2026-05-26-10-21-34-87" src="https://github.com/user-attachments/assets/46b8d087-6320-4085-a044-85b8b90af35c" />
+<img width="1920" height="1080" alt="SlimeRancher-2026-05-26-07-55-46-68" src="https://github.com/user-attachments/assets/26aaeda4-863f-49c0-be7b-b95af5750f62" />
+<img width="1920" height="1080" alt="SlimeRancher-2026-05-26-10-21-56-91" src="https://github.com/user-attachments/assets/be303e55-f2d8-4010-926a-eaca90508a87" />
 # Slime Rancher Pre-Alpha Mod v0.0.1
 **by Furkaiko**
 
